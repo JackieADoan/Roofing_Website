@@ -1,0 +1,7 @@
+The Website is created in the "index.php" file. This was done to easily work
+with any information and file that was included. The Main Way this website
+Functions is by dividing the functions of the website in html <div> collections.
+In each of these the code either has a main menu, a Form, or PHP code.
+
+The code was done with Harrison Hall at first but he had no work done and by the
+time he dropped the class I did the project by myself.
